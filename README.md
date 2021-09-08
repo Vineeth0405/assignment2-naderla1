@@ -43,4 +43,9 @@ New York is a state in the **Mid-Atlantic** and Northeastern regions of the Unit
   |butter naan|ratna|1$|
   |gulab jamun|paradise|2$|
 
+
+  # Pithy Quote
+
+  >"Be the change that you wish to see in the world"-*Mahatma gandhi*<br>
+  >"Impossible is just an opinion"-*Nehru*
   
