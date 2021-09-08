@@ -30,3 +30,17 @@ New York is a state in the **Mid-Atlantic** and Northeastern regions of the Unit
   * Powerbank
 
   **[AboutMe.md](AboutMe.md)**
+
+  ---
+
+  # food i loved and iwould love to suggest to others
+  I am going to create a table with 4 food items that i would love to recommend someone try. i am a big fan of Indian cusine like chicken biryani, vegetable pulav, butter naan and gulab jamun.
+
+  |Food Item|Location|Cost|
+  |---|---|---|
+  |chicken biryani|bawarchi|5$|
+  |vegetable pulav|srikanya|4$|
+  |butter naan|ratna|1$|
+  |gulab jamun|paradise|2$|
+
+  
