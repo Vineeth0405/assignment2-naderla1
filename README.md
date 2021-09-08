@@ -12,4 +12,19 @@ New York is a state in the **Mid-Atlantic** and Northeastern regions of the Unit
     2. It takes almost 20-25min newark airport to jersey city
 3. Wait for your friends or cousins to pick you
     1. Share your experience of flight journey with your friends or cousins
-5. We have reached  our destination before i complete saying about my experiences..
+5. We have reached  our destination before i complete saying about my experiences.
+
+
+* Thing i would take with me
+ * Drinks 
+   * Water 
+   * Redbull
+   * Pepsi
+ * food 
+  * chocolates 
+  * Chips
+ * Accessories
+  * Watch
+  * Airpods
+  * ipad
+  * Powerbank
