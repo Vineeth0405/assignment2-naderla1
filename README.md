@@ -49,7 +49,8 @@ New York is a state in the **Mid-Atlantic** and Northeastern regions of the Unit
   >"Be the change that you wish to see in the world"-*Mahatma gandhi*<br>
   >"Impossible is just an opinion"-*Nehru*
 
-  ```
+  ---
+
 # Finding the rank of a matrix
 > The rank of a matrix is the largest number of linearly independent rows/columns of the matrix. The rank is not only defined for square matrices.The rank of a matrix can also be defined as the largest order of any non-zero minor in the matrix.Let the matrix be rectangular and have size N×M. Note that if the matrix is square and its determinant is non-zero, then the rank is N (=M); otherwise it will be less. Generally, the rank of a matrix does not exceed min(N,M).
 [click here to know more](https://en.wikipedia.org/wiki/Rank_(linear_algebra))
